@@ -29,8 +29,7 @@ defmodule ElixirFlow do
       end
     )
     |> Enum.into(%{})
-    |> Enum.each(fn {k, v} ->
-      IO.puts("#{k} --> #{v}")
-    end)
+    |> Jason.encode!()
+    |> IO.puts()
   end
 end

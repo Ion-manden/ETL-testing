@@ -23,8 +23,7 @@ defmodule ElixirStream do
         fn c -> c + 1 end
       )
     end)
-    |> Enum.each(fn {k, v} ->
-      IO.puts("#{k} --> #{v}")
-    end)
+    |> Jason.encode!()
+    |> IO.puts()
   end
 end
