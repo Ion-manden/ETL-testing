@@ -1,0 +1,249 @@
+Kuwait: 48062
+Greenland: 48454
+Afghanistan: 48422
+Saint Barthélemy: 47807
+Cook Islands: 48626
+Samoa: 47987
+Dominican Republic: 48281
+Bosnia and Herzegovina: 48145
+Kyrgyzstan: 47922
+Israel: 48317
+Hong Kong: 48383
+Guernsey: 47843
+Kenya: 48518
+Azerbaijan: 47820
+Iran (Islamic Republic of): 48374
+Poland: 48152
+Zimbabwe: 48120
+Iceland: 47968
+Namibia: 48303
+Mongolia: 48228
+Liberia: 47714
+Rwanda: 48303
+Isle of Man: 48017
+Croatia: 48150
+Argentina: 47884
+Chad: 48137
+Belize: 48437
+Mauritius: 48189
+Jordan: 48455
+Faroe Islands: 48262
+Austria: 48386
+Myanmar: 48161
+Nauru: 48168
+Djibouti: 47804
+Gibraltar: 48029
+India: 48373
+Korea, Republic of: 48020
+United Arab Emirates: 47963
+Guam: 47842
+Morocco: 47896
+Georgia: 47934
+Sao Tome and Principe: 48219
+Saint Helena, Ascension and Tristan da Cunha: 48179
+Kazakhstan: 48122
+Congo, Democratic Republic of the: 48043
+Palestine, State of: 48223
+Egypt: 48418
+Lesotho: 48147
+Viet Nam: 48204
+Venezuela (Bolivarian Republic of): 48157
+Tuvalu: 48100
+Panama: 48057
+Aruba: 47911
+South Georgia and the South Sandwich Islands: 48049
+Malawi: 48243
+Pitcairn: 48362
+Slovakia: 48168
+Cayman Islands: 48070
+Yemen: 48328
+Australia: 47939
+Montserrat: 47869
+Sri Lanka: 48528
+Nepal: 48241
+Botswana: 48554
+Vanuatu: 47894
+Puerto Rico: 48288
+Greece: 48129
+Romania: 47981
+Denmark: 47873
+Tajikistan: 48036
+Serbia: 48354
+United States Minor Outlying Islands: 48322
+Peru: 47949
+Mayotte: 48388
+Syrian Arab Republic: 48325
+South Africa: 47999
+Bermuda: 47425
+Lebanon: 48360
+Antarctica: 48359
+Switzerland: 48592
+Cocos (Keeling) Islands: 48333
+San Marino: 48347
+Paraguay: 48047
+Holy See: 48025
+Chile: 48452
+Senegal: 48172
+Anguilla: 48027
+Heard Island and McDonald Islands: 48008
+Japan: 47919
+Northern Mariana Islands: 48161
+Spain: 48018
+British Indian Ocean Territory: 48720
+Saint Vincent and the Grenadines: 48355
+Virgin Islands (U.S.): 48554
+China: 48049
+Jersey: 48315
+Thailand: 47968
+Indonesia: 48571
+Mexico: 48208
+Mali: 48105
+Iraq: 48415
+Niger: 48263
+Qatar: 48087
+United Kingdom of Great Britain and Northern Ireland: 48171
+Honduras: 48014
+Sint Maarten (Dutch part): 48379
+French Guiana: 48240
+Turks and Caicos Islands: 47940
+Christmas Island: 48244
+Nigeria: 48186
+New Zealand: 48067
+Burundi: 47834
+Maldives: 48276
+Bulgaria: 48002
+South Sudan: 48372
+Turkey: 48006
+Micronesia (Federated States of): 47954
+Germany: 48027
+Timor-Leste: 48444
+Oman: 48789
+Gabon: 48580
+Papua New Guinea: 48343
+Ukraine: 48031
+Guinea-Bissau: 48841
+Costa Rica: 48053
+Belgium: 47827
+El Salvador: 48112
+Marshall Islands: 47763
+Slovenia: 48239
+Ethiopia: 48294
+Bonaire, Sint Eustatius and Saba: 48391
+Côte d'Ivoire: 48144
+Palau: 48516
+Monaco: 48616
+Uzbekistan: 48064
+Tokelau: 48166
+Bouvet Island: 48165
+Equatorial Guinea: 48208
+Latvia: 48147
+Kiribati: 48161
+Bahamas: 48309
+Solomon Islands: 47840
+Saint Martin (French part): 48476
+Malaysia: 48020
+Russian Federation: 48080
+Sierra Leone: 48431
+Luxembourg: 48223
+Guadeloupe: 48080
+Curaçao: 48453
+Korea (Democratic People's Republic of): 48303
+Moldova, Republic of: 48174
+Singapore: 48485
+Pakistan: 48432
+Brazil: 48309
+New Caledonia: 48219
+Lao People's Democratic Republic: 48135
+Antigua and Barbuda: 47921
+Guyana: 47960
+North Macedonia: 48039
+Haiti: 48354
+Fiji: 48176
+Eritrea: 48352
+Portugal: 48074
+Burkina Faso: 48375
+Saudi Arabia: 48542
+Eswatini: 48883
+Saint Kitts and Nevis: 47955
+Uganda: 48321
+Western Sahara: 48352
+Zambia: 48353
+Italy: 48426
+Tunisia: 48078
+Comoros: 48100
+France: 48054
+Barbados: 47824
+Guatemala: 48501
+Mozambique: 48110
+Norway: 48470
+Armenia: 48370
+Philippines: 48115
+Jamaica: 48130
+Guinea: 47871
+Saint Lucia: 48083
+Turkmenistan: 48176
+Angola: 48068
+Macao: 48142
+Andorra: 48128
+Bangladesh: 48367
+Bolivia (Plurinational State of): 48359
+Canada: 48405
+Brunei Darussalam: 47794
+Libya: 48670
+Czechia: 48090
+Tanzania, United Republic of: 48704
+Congo: 48290
+Trinidad and Tobago: 48150
+Nicaragua: 48336
+Norfolk Island: 48403
+Niue: 48337
+Tonga: 48811
+Ecuador: 48624
+Finland: 48307
+Montenegro: 48341
+Taiwan, Province of China: 48555
+Central African Republic: 48069
+Dominica: 48066
+Sweden: 48272
+French Polynesia: 48369
+Cambodia: 47561
+Hungary: 48155
+Ireland: 48429
+United States of America: 47888
+Cameroon: 48278
+Mauritania: 48343
+Lithuania: 48545
+Estonia: 48233
+Albania: 47896
+Bahrain: 48014
+Svalbard and Jan Mayen: 48641
+Colombia: 48198
+Belarus: 47833
+Sudan: 48280
+Madagascar: 48499
+Liechtenstein: 47962
+Wallis and Futuna: 47948
+Åland Islands: 48133
+Netherlands: 48003
+American Samoa: 48319
+Saint Pierre and Miquelon: 48140
+Grenada: 48738
+French Southern Territories: 48240
+Algeria: 48066
+Cyprus: 47621
+Gambia: 48407
+Ghana: 47710
+Falkland Islands (Malvinas): 48323
+Somalia: 48069
+Bhutan: 48226
+Malta: 47956
+Uruguay: 48028
+Martinique: 48172
+Cabo Verde: 48164
+Benin: 48107
+Cuba: 48099
+Togo: 47983
+Réunion: 47593
+Suriname: 48030
+Virgin Islands (British): 48156
+Seychelles: 48437
