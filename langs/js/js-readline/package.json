@@ -4,8 +4,15 @@
   "description": "",
   "main": "main.js",
   "scripts": {
+    "start": "node dist/main.js",
+    "build": "pnpm tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.3.2",
+    "rxjs": "^7.8.1",
+    "typescript": "^5.1.6"
+  }
 }
