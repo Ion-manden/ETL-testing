@@ -18,7 +18,7 @@ type product struct {
 }
 
 func main() {
-	file, err := os.Open("../../../data-generator/product-data.ndjson")
+	file, err := os.Open("../../../data-generator/short-product-data.ndjson")
 	if err != nil {
 		log.Fatal("Error on Open :", err)
 	}
